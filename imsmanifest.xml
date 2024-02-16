@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6YKuJTh9OKt_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">اسئلة تكنولوجيا المعلومات</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="اسئلة_تكنولوجيا_المعلومات_ORG">
+    <organization identifier="اسئلة_تكنولوجيا_المعلومات_ORG">
+      <title>اسئلة تكنولوجيا المعلومات</title>
+      <item identifier="اسئلة_تكنولوجيا_المعلومات_SCO" isvisible="true" identifierref="__6YKuJTh9OKt_course_id_RES">
+        <title>اسئلة تكنولوجيا المعلومات</title>
+        <adlcp:masteryscore>65</adlcp:masteryscore>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6YKuJTh9OKt_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6GeHSPrBK5h_M_516_516.png" />
+      <file href="mobile/6bM3Rg8KvW3_M_516_516.png" />
+      <file href="mobile/5ajfAZaP94T_M_362_362.png" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="mobile/Slide6hSzX1A08eK.jpg" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5aG1BVwi9gY.js" />
+      <file href="html5/data/js/5cfzD1XaGoa.js" />
+      <file href="html5/data/js/5eNM5NjG29z.js" />
+      <file href="html5/data/js/5hOiFmCkTCC.js" />
+      <file href="html5/data/js/5k4q7JmccWB.js" />
+      <file href="html5/data/js/5nPQOIDp71k.js" />
+      <file href="html5/data/js/5pqKlUTVVkB.js" />
+      <file href="html5/data/js/5qpkM4nGImx.js" />
+      <file href="html5/data/js/5rgJEGYhzP9.js" />
+      <file href="html5/data/js/5udvP3HnlPn.js" />
+      <file href="html5/data/js/5UvKM6jbaFO.js" />
+      <file href="html5/data/js/5uz32cXwrk4.js" />
+      <file href="html5/data/js/5WUTUzXiphV.js" />
+      <file href="html5/data/js/5WwMo8sAKMo.js" />
+      <file href="html5/data/js/5x7Hm7uGp1H.js" />
+      <file href="html5/data/js/61m5qUuJMGY.js" />
+      <file href="html5/data/js/623KxF4tqBG.js" />
+      <file href="html5/data/js/68i35RpsI7M.js" />
+      <file href="html5/data/js/699DCKL4D82.js" />
+      <file href="html5/data/js/6KCiJavwtVJ.js" />
+      <file href="html5/data/js/6KXnFQlzhv2.js" />
+      <file href="html5/data/js/6mR92RKcA5Z.js" />
+      <file href="html5/data/js/6NBfTNNfPFL.js" />
+      <file href="html5/data/js/6r60RJuWVQU.js" />
+      <file href="html5/data/js/6R8QUDMWXBL.js" />
+      <file href="html5/data/js/6UrNtqRf3Lm.js" />
+      <file href="html5/data/js/6VAdbF1l7Wz.js" />
+      <file href="html5/data/js/6ZAyOdaz0tG.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
